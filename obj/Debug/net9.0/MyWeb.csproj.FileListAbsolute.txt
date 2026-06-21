@@ -94,3 +94,4 @@ C:\Users\ggedd\OneDrive\Desktop\python\Project Website\MyWeb\obj\Debug\net9.0\re
 C:\Users\ggedd\OneDrive\Desktop\python\Project Website\MyWeb\obj\Debug\net9.0\MyWeb.pdb
 C:\Users\ggedd\OneDrive\Desktop\python\Project Website\MyWeb\obj\Debug\net9.0\MyWeb.genruntimeconfig.cache
 C:\Users\ggedd\OneDrive\Desktop\python\Project Website\MyWeb\obj\Debug\net9.0\ref\MyWeb.dll
+C:\Users\ggedd\OneDrive\Desktop\python\Project Website\MyWeb\obj\Debug\net9.0\MyWeb.sourcelink.json
